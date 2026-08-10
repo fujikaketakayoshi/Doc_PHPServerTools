@@ -2,6 +2,8 @@
 
 関連方針: [PRODUCT_STRATEGY.md](../PRODUCT_STRATEGY.md)
 
+実装時の技術仕様: [QRデジタルスタンプラリー 実装仕様書](../docs/qr-stamp-rally-implementation-spec.md)
+
 ## 目的とMVP
 
 商店街、学校、展示会、自治体・地域イベント等が、専用アプリや月額SaaSなしで短期のQRスタンプラリーを開催できるようにする。主催者がスポットを登録し、参加者がQRを読み取ってスタンプを集め、達成状況を確認できるところまでをMVPとする。
